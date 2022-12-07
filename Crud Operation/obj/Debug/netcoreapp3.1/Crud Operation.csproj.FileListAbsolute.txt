@@ -1,0 +1,33 @@
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\appsettings.json
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.exe
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.deps.json
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.runtimeconfig.json
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.runtimeconfig.dev.json
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.pdb
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\all project\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.AssemblyReference.cache
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.GeneratedMSBuildEditorConfig.editorconfig
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.AssemblyInfoInputs.cache
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.AssemblyInfo.cs
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.CoreCompileInputs.cache
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.MvcApplicationPartsAssemblyInfo.cs
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.MvcApplicationPartsAssemblyInfo.cache
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\staticwebassets\Crud Operation.StaticWebAssets.Manifest.cache
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\staticwebassets\Crud Operation.StaticWebAssets.xml
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\scopedcss\bundle\Crud Operation.styles.css
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.RazorTargetAssemblyInfo.cache
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.CopyComplete
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.dll
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.pdb
+E:\all project\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.genruntimeconfig.cache
